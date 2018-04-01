@@ -1,0 +1,10 @@
+char string1[50]="I Love";
+	char string2[50]="My India";
+ 	
+ 	strcat(string1,string2);
+ 	
+ 	lr_output_message(string1);
+  
+  //Output will be I LoveMy India
+  
+  
